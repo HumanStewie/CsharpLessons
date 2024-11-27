@@ -6,7 +6,7 @@ public class FirstEntry
     public static void Main(string[] arg)
     {
         
-        ForLoop();
+        SwitchCase();
         Console.ReadKey();
     }
     public static void UserInputParse()
